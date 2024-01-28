@@ -12,16 +12,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glennoliva" alt="glennoliva" /></a> </p>
 
 - 🔭 I’m currently working on **Fabulus Finds Sabrina Hotel Reservation Management System**
-
-- 🌱 I’m currently learning **Typescript , Nodejs , Express js , React - Next js , Mysql , Flutter**
-
+- 🌱 I’m currently learning **Typescript, Node.js, Express.js, React - Next.js, MySQL, Flutter**
 - 👯 I’m looking to collaborate on **For any developer who needs help**
-
-- 💬 Ask me about **Typescript , React , Node js , Express , Api's**
-
-- 📫 How to reach me **g.oiva.523349@umindanao.edu.ph**
-
-- ⚡ Fun fact **I am cool and handsome**
+- 💬 Ask me about **Typescript, React, Node.js, Express, APIs**
+- 📫 How to reach me: **g.oiva.523349@umindanao.edu.ph**
+- ⚡ Fun fact: **I am cool and handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
