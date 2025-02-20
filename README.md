@@ -123,7 +123,9 @@
   <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" alt="railway" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
+
 
 
 ---
