@@ -101,7 +101,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/glenncurry18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glenncurry18" height="30" width="40" /></a>
   <a href="https://fb.com/glennoliva12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="glennoliva12" height="30" width="40" /></a>
-  <a href="mailto:glennoliva122@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 
